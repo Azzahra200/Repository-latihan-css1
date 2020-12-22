@@ -1,0 +1,23 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+}
+
+h1, h2 {
+	color: #CF69F9;
+}
+
+ul li a {
+	color: #581845;
+}
+
+ol li a {
+	color: #900C3F;
+}
+
+#p1 {
+	color: #581845;
+}
+
+.p2 {
+	color: #CF69F9;
+}
